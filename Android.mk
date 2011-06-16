@@ -13,7 +13,7 @@
 # limitations under the License.
 
 #LOCAL_MODULE_TAGS := optional
-#include $(call all-named-subdir-makefiles, recovery  boot  libsensors  liblights)
+#include $(call all-named-subdir-makefiles,  boot  libsensors  liblights)
 
 LOCAL_MODULE_TAGS := optional
 
